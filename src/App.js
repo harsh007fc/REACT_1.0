@@ -1,9 +1,8 @@
+import Header from './components/Header'
 function App() {
-  
   return (
     <div className='container'>
-      <h1>Hello rom React</h1>
-      <h2>mara</h2>
+      <Header/>
     </div>
   );
 }
